@@ -20,22 +20,19 @@
             <h3>ACADEMIC QUALIFICATION</h3>
             <p>
             <ul>
-                <li>Currently pursuing BVOC Web Designing from Kalindi College (Delhi university)</li<br>
-              <li>Completed English Speaking Course from Freedom Employability Academy.</li <br>  <li>12th pass from CBSE board.</li<br>
+                <li>Currently pursuing BVOC Web Designing from Kalindi College (Delhi university)</li><br>
+              <li>Completed English Speaking Course from Freedom Employability Academy.</li <br>  <li>12th pass from CBSE board.</li><br>
                 <li>10th pass from CBSE board.</li></ul>
             </p>
             <h3>Professional Experience</h3>
   <h4> Fresher </h4>
-          </p> 
+          
             <h3>Strenghts & Hobbies:</h3>
             <p>
             <ul>
-                <li>
-                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
-                <li>
-                <span id="course-name">Languages Known:</span>English, Hindi</li>
-                <li>
-                <span id="course-name">Hobbies:</span>I love to search about fact & new technology ,reading  magazines, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
+                <li> A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.</li>
+                <li><span id="course-name">Languages Known:</span>English, Hindi</li>
+                <li><span id="course-name">Hobbies:</span>I love to search about fact & new technology ,reading  magazines, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
    </p>
             <h3>Personal Information:</h3>
             <p>
@@ -47,7 +44,7 @@
               <li id="maritial status">Maritial Status: Unmarried</li>
               </p>
               <ul>
-  <h3>Other Information</h3>
+      <h3>Other Information</h3>
             <p>
             <ul>
                 <li>
